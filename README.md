@@ -26,5 +26,5 @@ _Add more screenshots as needed_
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/Fast-Deliver-Food.git
+   git clone [https://github.com/YOUR_GITHUB_USERNAME/Fast-Deliver-Food.git](https://github.com/mari-rj/fast-deliver.git)
    ```
